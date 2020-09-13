@@ -1,0 +1,48 @@
+.wrapper {
+  width: 80%;
+  margin: 0px auto;
+}
+
+.block_one {
+  text-align: center;
+}
+
+.title {
+  border: 2px solid red;
+  margin-top: 10px;
+  width: 80%;
+}
+
+#btnSubmit {
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 15px;
+  color: red;
+  background-color: transparent;
+  font-size: medium;
+}
+
+.board {
+  border: 2px solid red;
+  height: 100vh;
+  margin: 106px auto;
+  text-align: center;
+}
+
+#btnEdit {
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 15px;
+  color: red;
+  background-color: transparent;
+  font-size: medium;
+}
+
+#btnClose {
+  border: 2px solid red;
+  margin: 0 auto;
+  margin-top: 15px;
+  color: red;
+  background-color: transparent;
+  font-size: medium;
+}
